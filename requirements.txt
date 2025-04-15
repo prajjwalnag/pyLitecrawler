@@ -1,0 +1,10 @@
+
+---
+
+### 📄 `requirements.txt`
+
+selenium
+beautifulsoup4
+httpx
+requests
+fastapi
